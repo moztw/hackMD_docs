@@ -6,34 +6,62 @@ MozTW 參與我們：http://moztw.org/contribute
 
 ## 歷年成果
 
-2012  http://moztw.org/events/nctuserv2012/   22 位
-2013Q1  http://moztw.org/events/service2013/   20 位
-2013Q3  http://moztw.org/events/service2013q4/   7 位
-2014Q1  https://docs.google.com/spreadsheets/d/1xW2g3aE_3Bd9wZ5wiwTy3Kor861W6B9Kj8W7ZR9G1O4/edit?usp=sharing   10 位
-2014Q3  https://moztw.org/events/service2014-2/   13 位
-2016Q3    8 位
-2018Q2 (107上)
+* 2012  http://moztw.org/events/nctuserv2012/   22 位
+* 2013Q1  http://moztw.org/events/service2013/   20 位
+* 2013Q3  http://moztw.org/events/service2013q4/   7 位
+* 2014Q1  https://docs.google.com/spreadsheets/d/1xW2g3aE_3Bd9wZ5wiwTy3Kor861W6B9Kj8W7ZR9G1O4/edit?usp=sharing   10 位
+* 2014Q3  https://moztw.org/events/service2014-2/   13 位
+* 2016Q3    8 位
+* 2018Q2 (107上)
 
 ### 宣傳單 
 https://www.dropbox.com/s/xi3f1wovqlr72ur/服務學習傳單.png
+
 https://www.flickr.com/photos/irvin/25625119532/
 
 ## 2020
 
 MozTW 社群 Telegram: moztw.org/tg (請加入 general 頻道)
 
-- CC0 句庫 (收集句子) https://hackmd.io/@moztw-cv/cc0-corpus-sch001-demo-day#/
-- Common Voice 開放語音庫 (錄音、推廣) https://commonvoice.mozilla.org/
-- 數位身份白皮書 (製作 epub 電子書、製作網頁)
-    - https://www.youtube.com/watch?v=662ExcE4r9M
-    - https://medium.com/mozilla-related/digital-id-94d995aaa7e5
-    - PDD 檔： https://blog.mozilla.org/netpolicy/mozilla-digitalidpaper-zh/
-- moztw.org 網站 https://github.com/moztw/www.moztw.org/
-- 翻譯 web 技術文件 https://developer.mozilla.org/zh-TW/
-- 翻譯 Firefox 補助說明 [#Firefox 補助說明文件](#Firefox-%E8%A3%9C%E5%8A%A9%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6)
-- MozTW 字幕組 (影片字幕翻譯 / 製作)  https://hackmd.io/UI0S8FdgS_2oC_j_aeSTBA?view
+- CC0 句庫 (收集 / 整理中文句子)
+    - https://hackmd.io/@moztw-cv/cc0-corpus-sch001-demo-day#/
+    - 專案介紹影片：https://youtu.be/INUks7meBrI?t=1865
+    - 參加 g0v 大松 0123
+- Common Voice 開放語音庫
+    - 錄音、驗證、推廣
+https://commonvoice.mozilla.org/
+    - 跑跑看 DeepSpeech 語音辨識模型 (Tension Flow) https://deepspeech.readthedocs.io/en/latest/TRAINING.html
+- 可信賴 AI 白皮書
+    - 摘要翻譯 / 宣傳
+    - https://foundation.mozilla.org/en/blog/trustworthy-ai-abridged-version/
+- 數位身份白皮書
+    - 以 inDesign 原始檔製作 epub 電子書 / 製作網頁
+    - 介紹 
+        - https://www.youtube.com/watch?v=662ExcE4r9M
+        - https://medium.com/mozilla-related/digital-id-94d995aaa7e5
+    - PDF 檔 
+https://blog.mozilla.org/netpolicy/mozilla-digitalidpaper-zh/
+- moztw.org 網站 
+    - html / css / js
+    - 翻譯維護 Firefox release notes
+        - https://github.com/moztw/www.moztw.org/pull/665
+    - docker / nodejs build scripts 更新
+        - https://github.com/moztw/www.moztw.org/#development
+    - Github CI: shtml compile > 靜態 html 研究 （搬移至 Github 前置準備）
+        - 參考 Travis CI PR: https://github.com/moztw/www.moztw.org/pull/596
+        - 以 Github CI 架設
+- 翻譯 web 技術文件 / 研究新版 MDN 翻譯 & 架設 
+    - https://developer.mozilla.org/zh-TW/
+    - https://github.com/mdn/yari
+- 翻譯 Firefox 補助說明 
+    - [#Firefox 補助說明文件](#Firefox-%E8%A3%9C%E5%8A%A9%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6)
+- MozTW 字幕組 (影片字幕翻譯 / 製作)
+    - https://hackmd.io/@moztw/subtitles
     - 推廣 Code Rush 紀錄片 https://www.youtube.com/watch?v=VoLUvE-ny1k
     - 舉辦「智能社會，進退兩難」播映會 https://www.netflix.com/tw/title/81254224
+- 法律研究
+    - 數位通訊傳播法 版本比對
+- 
 
 
 ## 2018
