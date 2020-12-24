@@ -1,6 +1,8 @@
 # 服務學習專案
 ###### tags: `服務學習`
 
+hackmd.io/@moztw/service-learning
+
 參考：
 MozTW 參與我們：http://moztw.org/contribute
 
@@ -24,44 +26,51 @@ https://www.flickr.com/photos/irvin/25625119532/
 MozTW 社群 Telegram: moztw.org/tg (請加入 general 頻道)
 
 - CC0 句庫 (收集 / 整理中文句子)
-    - https://hackmd.io/@moztw-cv/cc0-corpus-sch001-demo-day#/
-    - 專案介紹影片：https://youtu.be/INUks7meBrI?t=1865
-    - 參加 g0v 大松 0123
+    - 專案介紹簡報：https://hackmd.io/@moztw/cc0-corpus-slide/
+    - 簡報錄影：https://youtu.be/INUks7meBrI?t=1865
+    - 目前有一萬句，約佔中文發音 66%、常用字 85%
+    - 貢獻項目：
+        - 把對話紀錄整理成句子：https://github.com/irvin/cc0-sentences/blob/master/zh-TW/g0v_slack_rand0m_README.md
 - Common Voice 開放語音庫
-    - 錄音、驗證、推廣
+    - 貢獻項目：
+        - 錄音、驗證 （一句 5s）
 https://commonvoice.mozilla.org/
-    - 跑跑看 DeepSpeech 語音辨識模型 (Tension Flow) https://deepspeech.readthedocs.io/en/latest/TRAINING.html
+        - 照文件用下載的語音庫以 Tension Flow 跑出 DeepSpeech 語音辨識模型 https://deepspeech.readthedocs.io/en/latest/TRAINING.html
 - 可信賴 AI 白皮書
-    - 摘要翻譯 / 宣傳
-    - https://foundation.mozilla.org/en/blog/trustworthy-ai-abridged-version/
+    - 摘要文章的翻譯： https://foundation.mozilla.org/en/blog/trustworthy-ai-abridged-version/
 - 數位身份白皮書
-    - 以 inDesign 原始檔製作 epub 電子書 / 製作網頁
-    - 介紹 
+    - 專案介紹與影片 
         - https://www.youtube.com/watch?v=662ExcE4r9M
         - https://medium.com/mozilla-related/digital-id-94d995aaa7e5
-    - PDF 檔 
+        - 白皮書 PDF 檔 
 https://blog.mozilla.org/netpolicy/mozilla-digitalidpaper-zh/
+    - 可貢獻項目
+        - 以 inDesign / Google Doc 的原始檔製作成 epub 電子書
+- 法律研究
+    - 數位通訊傳播法 版本比對與研究
+    - 根據 2017 草案的討論紀錄，比對 2020 年版，研究新版草案的變動
+    - https://hackmd.io/@moztw/nninlaw_dc
 - moztw.org 網站 
     - html / css / js
-    - 翻譯維護 Firefox release notes
-        - https://github.com/moztw/www.moztw.org/pull/665
-    - docker / nodejs build scripts 更新
-        - https://github.com/moztw/www.moztw.org/#development
-    - Github CI: shtml compile > 靜態 html 研究 （搬移至 Github 前置準備）
-        - 參考 Travis CI PR: https://github.com/moztw/www.moztw.org/pull/596
-        - 以 Github CI 架設
-- 翻譯 web 技術文件 / 研究新版 MDN 翻譯 & 架設 
+    - 貢獻項目：
+        - 翻譯維護 Firefox release notes https://github.com/moztw/www.moztw.org/pull/665
+        - 更新 docker / nodejs build scripts https://github.com/moztw/www.moztw.org/#development
+        - Github CI: shtml compile > 靜態 html 研究 （搬移至 Github 前置準備）
+            - 參考 Travis CI PR，以 Github CI 架設 https://github.com/moztw/www.moztw.org/pull/596
+- MDN 網路開發者文件
     - https://developer.mozilla.org/zh-TW/
-    - https://github.com/mdn/yari
-- 翻譯 Firefox 補助說明 
-    - [#Firefox 補助說明文件](#Firefox-%E8%A3%9C%E5%8A%A9%E8%AA%AA%E6%98%8E%E6%96%87%E4%BB%B6)
-- MozTW 字幕組 (影片字幕翻譯 / 製作)
+    - 貢獻項目
+        - 翻譯 web 技術文件
+        - 研究新版 MDN 翻譯 & 架設 https://github.com/mdn/yari
+- Firefox 補助說明翻譯
+    - 說明文件 https://support.mozilla.org/zh-TW/get-involved/l10n
+    - 新手上路：https://support.mozilla.org/zh-TW/kb/localize-firefox-help
+    - 最常被閱讀的文章與與需更新文章列表：https://support.mozilla.org/zh-TW/localization#most-visited-translations
+- 影片放映 / 字幕翻譯製作
     - https://hackmd.io/@moztw/subtitles
-    - 推廣 Code Rush 紀錄片 https://www.youtube.com/watch?v=VoLUvE-ny1k
-    - 舉辦「智能社會，進退兩難」播映會 https://www.netflix.com/tw/title/81254224
-- 法律研究
-    - 數位通訊傳播法 版本比對
-- 
+    - 舉辦紀錄片放映活動
+        - 「Code Rush」紀錄片 https://moztw.org/events/code-rush/
+        - 「智能社會，進退兩難」紀錄片 https://www.netflix.com/tw/title/81254224
 
 
 ## 2018
