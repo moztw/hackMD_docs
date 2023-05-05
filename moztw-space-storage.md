@@ -1,0 +1,74 @@
+# 工寮倉儲物資清單 moztw space swag storage
+###### tags: `摩茲工寮`
+
+- T-shirts
+    - Internet lover
+        - XS x5
+        - S x8
+        - M x11
+        - L x8
+        - XL x6
+        - 2XL x2
+        - 3XL x1
+        - ![](https://live.staticflickr.com/65535/52872554527_d7c7ec051f_4k.jpg =x300)
+    - Pridezilla (Taiwan)
+- 筆記本 Notebook
+    - it's your internet (mozilla) purple 416
+        - ![](https://live.staticflickr.com/65535/52873133361_3b22167ab8_3k.jpg =x300)
+    - innovate to lead the culture change of the internet (firefox) deep blue 300
+        - ![](https://live.staticflickr.com/65535/52873306599_1ddad56cf3_4k.jpg =x300)
+    - small with pen 牛皮小本帶筆 (mozilla) 84
+        - ![](https://live.staticflickr.com/65535/52873510120_c0fa280158_3k.jpg =x300)
+- Mozilla handbags 器材袋/手袋 x208
+    - ![](https://live.staticflickr.com/65535/52873134261_c30f62badf_3k.jpg =x300)
+- 鋁手機架 aluminum phone stand mozilla x200~
+    - ![](https://live.staticflickr.com/65535/52872554092_9d16178b4d_3k.jpg =x300)
+- Firefox tattoo sticker 紋身貼紙 x151
+    - ![](https://live.staticflickr.com/65535/52872554577_2dfb4fe3e9_3k.jpg =x300)
+- 頸繩 lanyard
+    - 橘色 orange mozilla 95
+        - ![](https://live.staticflickr.com/65535/52873306434_91478212f8_4k.jpg =x300)
+    - 黑色 black mozilla 30 
+        - ![](https://live.staticflickr.com/65535/52873306374_a338637efc_3k.jpg =x300)
+    - 黑色 black firefox 16 
+        - ![](https://live.staticflickr.com/65535/52872554707_3d9bb4dfbc_3k.jpg =x300)
+    - 黑色 black many voice one mozilla 20 
+        - ![](https://live.staticflickr.com/65535/52873134101_5ddf4c1b47_4k.jpg =x300)
+    - 藍橘 blue orange firefox 12 
+        - ![](https://live.staticflickr.com/65535/52873574448_07aa2cc4b1_4k.jpg =x300) 
+    - mozilla lanyard clip 識別證扣 x79
+        - ![](https://live.staticflickr.com/65535/52873510110_45caf93d5c_3k.jpg =x300)
+- 杯 cups
+    - 橘色馬克杯 (台灣謀智) orange firefox mug (mozilla taiwan) 34
+        - ![](https://live.staticflickr.com/65535/52873574158_97b54b6e6b_3k.jpg =x300)
+    - 透明對杯 trans pair glass (mozilla) 47
+        - ![](https://live.staticflickr.com/65535/52872554572_29e2b64231_4k.jpg =x300)
+- 帽子 cap
+    - Firefox logo embroidery 刺繡 3
+        - ![](https://live.staticflickr.com/65535/52873574248_d3cb8e493a_3k.jpg =x300)
+    - Firefox wordmark embroidery (w mozilla.com.tw sticker 貼紙) 14
+        - ![](https://live.staticflickr.com/65535/52873511015_7a29eda8a0_3k.jpg =x300)
+- 紙袋 firefox paper bag 19
+    - ![](https://live.staticflickr.com/65535/52873573833_3ec1edeba4_3k.jpg =x300)
+- 藍色水袋 blue mozilla water bag 3
+    - ![](https://live.staticflickr.com/65535/52873510415_cc877dbc70_4k.jpg =x300)
+- 行李袋 travel bag x3
+    - ![](https://live.staticflickr.com/65535/52873133681_767c031233_3k.jpg =x300)
+- pen purple touch (mozilla-next.com) 紫色 觸控原子筆 ~100
+    - ![](https://live.staticflickr.com/65535/52873305794_363037ccca_4k.jpg =x300)
+- 雨衣 raincoat firefox rocket x37
+    - ![](https://live.staticflickr.com/65535/52873133356_5fb953fdf6_4k.jpg =x300)
+- USB adapter 轉接頭 
+    - 黑 black 61
+    - 橘 orange 100
+    - ![](https://live.staticflickr.com/65535/52873510100_8a088a5df8_3k.jpg =x300) ![](https://live.staticflickr.com/65535/52873305544_18ba0e3f11_3k.jpg =x300)
+- 鏡頭貼 camera cover
+    - logo (mozilla-next.com) ~290
+    - firefox lite (android store) 81
+    - internet health x7
+    - ![](https://live.staticflickr.com/65535/52873573423_8ec06b399b_3k.jpg =x300)  ![](https://live.staticflickr.com/65535/52873573428_336acf939e_3k.jpg =x300)
+    - ![](https://live.staticflickr.com/65535/52873573868_ce8b0d852a_4k.jpg =x300)
+- firefox logo buttons x60
+    - ![](https://live.staticflickr.com/65535/52873511235_e78818ed1a_4k.jpg =x300)
+- 文件夾 Firefox OS file folder 文件夾 23
+    - ![](https://live.staticflickr.com/65535/52872554697_e6404d8f86_4k.jpg =x300)
