@@ -6,7 +6,7 @@
         - XS x5
         - S x8
         - M x11
-        - L x8
+        - L x7
         - XL x6
         - 2XL x2
         - 3XL x1
@@ -15,11 +15,11 @@
 - 筆記本 Notebook
     - it's your internet (mozilla) purple 416
         - ![](https://live.staticflickr.com/65535/52873133361_3b22167ab8_3k.jpg =x300)
-    - innovate to lead the culture change of the internet (firefox) deep blue 300
+    - innovate to lead the culture change of the internet (firefox) deep blue 299
         - ![](https://live.staticflickr.com/65535/52873306599_1ddad56cf3_4k.jpg =x300)
     - small with pen 牛皮小本帶筆 (mozilla) 84
         - ![](https://live.staticflickr.com/65535/52873510120_c0fa280158_3k.jpg =x300)
-- Mozilla handbags 器材袋/手袋 x208
+- Mozilla handbags 器材袋/手袋 x207
     - ![](https://live.staticflickr.com/65535/52873134261_c30f62badf_3k.jpg =x300)
 - 鋁手機架 aluminum phone stand mozilla x200~
     - ![](https://live.staticflickr.com/65535/52872554092_9d16178b4d_3k.jpg =x300)
